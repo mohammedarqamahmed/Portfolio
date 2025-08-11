@@ -185,24 +185,24 @@ function App() {
               </div>
               <div className="about-details">
                 <div className="detail-item">
-                  <div className="detail-icon">🎯</div>
+                  <div className="detail-icon">🔥</div>
                   <div className="detail-content">
-                    <h4>Problem Solver</h4>
-                    <p>Transforming complex challenges into elegant, scalable solutions</p>
+                    <h4>Tech Enthusiast</h4>
+                    <p>Passionate about building and experimenting with modern tools</p>
                   </div>
                 </div>
                 <div className="detail-item">
                   <div className="detail-icon">🚀</div>
                   <div className="detail-content">
-                    <h4>Fast Learner</h4>
-                    <p>Quickly adapting to new technologies and frameworks</p>
+                    <h4>Growth Mindset</h4>
+                    <p>Constantly learning, improving, and evolving</p>
                   </div>
                 </div>
                 <div className="detail-item">
-                  <div className="detail-icon">💡</div>
+                  <div className="detail-icon">🌟</div>
                   <div className="detail-content">
-                    <h4>Innovation Driven</h4>
-                    <p>Always exploring cutting-edge technologies and methodologies</p>
+                    <h4>Goal Oriented</h4>
+                    <p>Focused on delivering results that truly make a difference</p>
                   </div>
                 </div>
               </div>
