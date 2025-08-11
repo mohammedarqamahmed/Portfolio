@@ -251,7 +251,7 @@ function App() {
                   <div className="edu-details">
                     <div className="grade-display">
                       <span className="grade-label">CGPA</span>
-                      <span className="grade-value">8.4</span>
+                      <span className="grade-value">7.6/span>
                     </div>
                   </div>
                 )}
@@ -261,7 +261,7 @@ function App() {
             <div className="edu-card" onClick={() => setActiveEducation(activeEducation === 2 ? null : 2)}>
               <div className="edu-card-header">
                 <div className="edu-logo">
-                  <img src="/images/chaitanya-logo.jpeg" alt="Intermediate" />
+                  <img src="/images/chitanya-logo.jpeg" alt="Intermediate" />
                 </div>
               </div>
               <div className="edu-content">
@@ -272,7 +272,7 @@ function App() {
                   <div className="edu-details">
                     <div className="grade-display">
                       <span className="grade-label">Percentage</span>
-                      <span className="grade-value">94.4%</span>
+                      <span className="grade-value">77%</span>
                     </div>
                   </div>
                 )}
@@ -293,7 +293,7 @@ function App() {
                   <div className="edu-details">
                     <div className="grade-display">
                       <span className="grade-label">Grade</span>
-                      <span className="grade-value">10.0</span>
+                      <span className="grade-value">9.80</span>
                     </div>
                   </div>
                 )}
