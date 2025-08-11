@@ -491,14 +491,14 @@ function App() {
                 <div className="contact-icon">📧</div>
                 <div className="contact-details">
                   <h3>Email</h3>
-                  <a href="mailto:imadu1525@gmail.com">imadu1525@gmail.com</a>
+                  <a href="mailto:arqam911204@gmail.com">arqam911204@gmail.com</a>
                 </div>
               </div>
               <div className="contact-item">
                 <div className="contact-icon">📱</div>
                 <div className="contact-details">
                   <h3>Phone</h3>
-                  <a href="tel:+918919023402">+91 8919023402</a>
+                  <a href="tel:+917013655107">+91 7013655107</a>
                 </div>
               </div>
             </div>
@@ -511,7 +511,7 @@ function App() {
 
       <footer className="footer">
         <div className="footer-content">
-          <p>© 2025 Imad Umar | Crafted with ❤️ and ☕</p>
+          <p>© 2025 Mohammed Arqam Ahmed | Crafted with ❤️ and ☕</p>
         </div>
       </footer>
     </div>
