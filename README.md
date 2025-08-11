@@ -1,4 +1,4 @@
-# Mohammed Arqam Ahmed Portfolio
+# Arqam Portfolio
 
 A modern, responsive portfolio website built with React.
 
