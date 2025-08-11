@@ -124,10 +124,12 @@ function App() {
               <span className="gradient-text">Mohammed Arqam Ahmed</span>
             </h1>
             <p className="hero-subtitle">
-              <span className="typing-text">Crafting intelligent solutions with AI & modern web technologies</span>
+              <span className="typing-text">Turning ideas into reality with creativity & innovation.
+</span>
             </p>
             <div className="hero-description">
-              <p>Full-Stack Developer • AI/ML Enthusiast • Problem Solver</p>
+              <p>Creative Mind • AI/ML Enthusiast • Full-Stack Innovator
+</p>
             </div>
             <div className="hero-actions">
               <a href="#projects" className="cta-button primary">
