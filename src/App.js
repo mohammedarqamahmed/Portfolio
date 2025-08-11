@@ -251,7 +251,7 @@ function App() {
                   <div className="edu-details">
                     <div className="grade-display">
                       <span className="grade-label">CGPA</span>
-                      <span className="grade-value">7.6/span>
+                      <span className="grade-value">7.6</span>
                     </div>
                   </div>
                 )}
