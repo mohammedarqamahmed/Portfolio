@@ -1,5 +1,5 @@
 [build]
-  base = "Mohammed Arqam Ahmed portfolio"
+  base = "portfolio"
   command = "npm run build"
   publish = "build"
 
