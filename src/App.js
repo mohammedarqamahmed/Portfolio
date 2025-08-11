@@ -179,9 +179,8 @@ function App() {
               <div className="about-intro">
                 <h3>Passionate Developer & AI Enthusiast</h3>
                 <p>
-                  I'm a dedicated CSE (AI & ML) student with a deep passion for creating 
-                  innovative solutions that bridge the gap between technology and human needs. 
-                  My journey in tech is driven by curiosity and a desire to solve complex problems.
+                  Mohammed Arqam is a passionate and creative individual, driven by curiosity and innovation. He thrives on exploring new ideas and finding unique ways to bring them to life. With an adaptable mindset and a problem-solving attitude, he embraces challenges as opportunities to grow and make a lasting impact. Always eager to learn and improve, he blends creativity with determination to achieve meaningful results.
+
                 </p>
               </div>
               <div className="about-details">
