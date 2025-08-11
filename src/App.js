@@ -84,7 +84,7 @@ function App() {
       <div className="loader">
         <div className="loader-container">
           <div className="loader-circle">
-            <img src="/images/profile-photo.jpeg" alt="Loading" className="loader-img" />
+            <img src="/images/profile-photo.jpg" alt="Loading" className="loader-img" />
           </div>
           <div className="loader-text">
             <span className="loading-text">Loading Portfolio</span>
@@ -155,7 +155,7 @@ function App() {
           </div>
           <div className="hero-visual">
             <div className="profile-container">
-              <img src="/images/profile-photo.jpeg" alt="Arqam Ahmed" className="profile-image" />
+              <img src="/images/profile-photo.jpg" alt="Arqam Ahmed" className="profile-image" />
               <div className="profile-glow"></div>
             </div>
           </div>
@@ -217,7 +217,7 @@ function App() {
             </div>
             <div className="about-visual">
               <div className="image-container">
-                <img src="/images/cover.jpeg" alt="About Me" className="about-image" />
+                <img src="/images/cover.jpg" alt="About Me" className="about-image" />
                 <div className="image-overlay"></div>
               </div>
             </div>
